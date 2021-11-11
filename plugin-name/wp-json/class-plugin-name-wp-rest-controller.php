@@ -311,5 +311,5 @@ class Plugin_Name_Wp_Rest_Controller extends WP_REST_Controller
 	{
 		return [];
 	}
-
+echo "This is a test.";
 }
